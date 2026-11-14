@@ -18,4 +18,4 @@ I help engineering teams, researchers, and R&D startups model physical systems, 
 ### 📫 Let's Work Together
 Available for freelance technical consulting, custom simulation scripts, and R&D data analysis.
 * 💼 **Upwork / Kolabtree:** *(Todavía en proceso)*
-* 📧 **Email:** vicmg.03.4444@gmail.com
+* 📧 **Email:** victormg.aero@gmail.com 
